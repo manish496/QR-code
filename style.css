@@ -5,8 +5,8 @@ body {
 .attribution {
   position: absolute;
   bottom: 1px;
-  left: 1px;
-  right: 1px;
+  left: 0;
+  right: 0;
 }
 
 .attribution {
@@ -27,6 +27,7 @@ body {
     max-width: 220px;
     display: flex;
     margin: 0 auto;
+    margin-top: 10%;
     flex-direction: column;
     align-items: center;
     border-radius: 15px;
