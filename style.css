@@ -1,0 +1,47 @@
+body {
+    font-size: 15px;
+    background-color: #D5E1EF;
+}
+.attribution {
+  position: absolute;
+  bottom: 1px;
+  left: 1px;
+  right: 1px;
+}
+
+.attribution {
+  font-size: 0.6875rem;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.img-qr {
+    width: 100%;
+    border-radius: 15px;
+}
+
+.container {
+    background-color: whitesmoke;
+    max-width: 220px;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+    padding: 10px;
+    
+    
+}
+
+.container p{
+    text-align: center;
+    color: #434F66;
+    font-weight: 700px;
+}
+.container div{
+    text-align: center;
+    color: #C0C8D0;
+    font-weight: 400px;
+}
